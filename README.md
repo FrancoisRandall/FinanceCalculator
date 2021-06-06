@@ -17,6 +17,12 @@ Finance Calculator will request if you wish to calculate an investment or a bond
 * Interest rate
 * Bond repay duration (months)
 
-In order to run Finance Calculater, run it via your requested IDE and simply provide your input accordingly.
+In order to run Finance Calculater, refer to the below steps:
+
+* Download IDLE
+* Copy the code provided
+* Paste the code in the code editor
+* Run the code
+* Follow the prompts accordingly
 
 If you have any further questions regarding Finance Calculator, kindly send them through to fmrandall7895@gmail.com.
